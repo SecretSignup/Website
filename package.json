@@ -1,19 +1,15 @@
 {
-	"name": "astro-starter-template",
+	"name": "@website/secretsignup_playform_cloud",
 	"version": "0.0.1",
 	"private": false,
-	"description": "📄 Starter template for AstroJS.",
-	"keywords": [
-		"astro",
-		"starter"
-	],
-	"homepage": "https://github.com/Playform/AstroStarterTemplate#readme",
+	"description": "🤫 SecretSignup allows you to signup / show your love without revealing personal information.",
+	"homepage": "https://github.com/SecretSignup/Website#readme",
 	"bugs": {
-		"url": "https://github.com/Playform/AstroStarterTemplate/issues"
+		"url": "https://github.com/SecretSignup/Website/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/AstroStarterTemplate.git"
+		"url": "git+https://github.com/SecretSignup/Website.git"
 	},
 	"license": "MIT",
 	"author": {
