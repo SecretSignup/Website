@@ -2,8 +2,7 @@ export default (await import("astro/config")).defineConfig({
 	srcDir: "./Source",
 	publicDir: "./Public",
 	outDir: "./Target",
-	// TODO Place your site URL here
-	// site: "",
+	site: "https://secretsignup.playform.cloud",
 	compressHTML: true,
 	experimental: {
 		devOverlay: true,

@@ -1,5 +1,6 @@
-# [AstroStarterTemplate] 📄
+# [SecretSignup] 🤫
 
-Starter template for AstroJS.
+🤫 SecretSignup allows you to signup / show your love without revealing personal
+information.
 
-[AstroStarterTemplate]: https://npmjs.org/astro-starter-template
+[SecretSignup]: https://secretsignup.playform.cloud
