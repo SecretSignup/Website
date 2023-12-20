@@ -52,14 +52,12 @@ import { ViewTransitions } from "astro:transitions";
 		<!-- Favicon -->
 		<ViewTransitions />
 	</Head>
-	<body>
-		<div id="secretsignup">
-			<div class="grow">
-				<slot />
-			</div>
-			<script>
-				import "@Script/Firebase";
-			</script>
+	<body class="flex flex-grow">
+		<div class="grow">
+			<slot />
 		</div>
+		<script>
+			import "@Script/Firebase";
+		</script>
 	</body>
 </html>
