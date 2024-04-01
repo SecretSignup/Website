@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "🤫 SecretSignup allows you to signup / show your love without revealing your personal information.",
-	"homepage": "https://github.com/SecretSignup/Website#readme",
+	"homepage": "https://github.com/SecretSignup/Website#ReadMe",
 	"bugs": {
 		"url": "https://github.com/SecretSignup/Website/issues"
 	},
@@ -30,7 +30,7 @@
 		"astro": "4.5.12",
 		"@playform/biome-astro": "0.0.3",
 		"astro-capo": "0.0.1",
-		"@playform/compress-astro": "0.0.1",
+		"@playform/compress-astro": "0.0.2",
 		"@playform/critters-astro": "0.0.2",
 		"astrojs-service-worker": "2.0.0",
 		"autoprefixer": "10.4.19",
