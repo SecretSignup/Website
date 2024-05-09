@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/SecretSignup/Website.git"
+		"url": "git+https://github.com/SecretSignup/Website.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
