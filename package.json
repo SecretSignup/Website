@@ -1,7 +1,7 @@
 {
 	"name": "@website/secretsignup_playform_cloud",
 	"version": "0.0.1",
-	"private": false,
+	"private": true,
 	"description": "🤫 SecretSignup allows you to signup / show your love without revealing your personal information.",
 	"homepage": "HTTPS://GitHub.Com/SecretSignup/Website#readme",
 	"bugs": {
@@ -55,7 +55,7 @@
 		"zod": "*"
 	},
 	"publishConfig": {
-		"access": "public",
+		"access": "restricted",
 		"provenance": true
 	}
 }
