@@ -2,19 +2,8 @@
 	"name": "@website/secretsignup_playform_cloud",
 	"version": "0.0.1",
 	"private": true,
-<<<<<<< HEAD
 	"description": "🤫 SecretSignup allows you to signup / show your love without revealing your personal information.",
 	"homepage": "HTTPS://GitHub.Com/SecretSignup/Website#readme",
-=======
-	"description": "📄 Starter —",
-	"keywords": [
-		"astro",
-		"starter",
-		"skeleton",
-		"playform"
-	],
-	"homepage": "HTTPS://GitHub.Com/PlayForm/Starter#readme",
->>>>>>> Fork/Current
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/SecretSignup/Website/issues"
 	},
