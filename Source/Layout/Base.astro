@@ -1,10 +1,15 @@
 ---
 import "@Stylesheet/Base.css";
 
+<<<<<<< HEAD
 const {
 	Title = "SecretSignup",
 	Description = "🤫 SecretSignup allows you to signup / show your love without revealing your personal information.",
 } = Astro.props;
+=======
+// TODO Place your title and description here
+const { Title = "", Description = "" } = Astro.props;
+>>>>>>> Fork/Current
 
 interface Props {
 	Title?: string;
@@ -28,7 +33,12 @@ import { ViewTransitions } from "astro:transitions";
 		<meta charset="utf-8" />
 		<meta name="description" content={Description} />
 		<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<<<<<<< HEAD
 		<meta name="theme-color" content="#361363" />
+=======
+		<!-- TODO Define your color theme in hex here -->
+		<meta name="theme-color" content="" />
+>>>>>>> Fork/Current
 		<meta name="format-detection" content="telephone=no" />
 		<meta name="twitter:dnt" content="on" />
 
@@ -52,7 +62,11 @@ import { ViewTransitions } from "astro:transitions";
 		<!-- Favicon -->
 		<ViewTransitions />
 	</Head>
+<<<<<<< HEAD
 	<body class="flex flex-grow">
+=======
+	<body>
+>>>>>>> Fork/Current
 		<div class="grow">
 			<slot />
 		</div>
