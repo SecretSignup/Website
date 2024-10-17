@@ -2,7 +2,7 @@
 import "@Stylesheet/Base.css";
 
 import { Head } from "astro-capo";
-import { ViewTransitions } from "astro:transitions";
+import { ClientRouter } from "astro:transitions";
 
 const {
 	Title = "SecretSignup",
@@ -53,7 +53,7 @@ interface Props {
 		<slot name="Head" />
 
 		<!-- Favicon -->
-		<ViewTransitions />
+		<ClientRouter />
 	</Head>
 	<body class="flex flex-grow">
 		<div class="grow">
